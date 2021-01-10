@@ -1,0 +1,39 @@
+h1{
+    margin-top: 5px;
+}
+
+.button1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: 0.5 ease;
+}
+
+.button1 button:hover{
+    font-size: 25px;
+}
+.pic-button2 
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: 0.5 ease;
+    width: 50%;
+}
+
+.pic-button2 img{
+    width: 100%;
+}
+
+.pic-button2 button:hover{
+    font-size: 30px;
+}
+
+.button3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: 0.5 ease;
+}
+.button3 button:hover{
+    font-size: 30px;
+}
+
+
